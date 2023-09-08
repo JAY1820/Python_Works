@@ -1,1 +1,0 @@
-#lapalac mask for edge detection and sharpening
